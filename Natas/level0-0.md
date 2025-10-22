@@ -1,4 +1,4 @@
-# Info
+# Challenge Walkthrough
 
 ## Natas Level 0
 
